@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Work\Udemy_2020\AZ-304\5. Design Infrastructure\1. Design a compute solution\Lab - Let's build our application image\Base App\Sqlapp\Sqlapp\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2021-05-24T11:11:55.4250800Z;True|2021-05-24T15:02:13.7582146+04:00;True|2021-05-24T14:11:06.2831391+04:00;</History>
+  </PropertyGroup>
+</Project>

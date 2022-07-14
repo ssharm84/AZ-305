@@ -1,0 +1,157 @@
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csprojAssemblyReference.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.AssemblyInfoInputs.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.AssemblyInfo.cs
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csproj.CoreCompileInputs.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.MvcApplicationPartsAssemblyInfo.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorAssemblyInfo.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorAssemblyInfo.cs
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\staticwebassets\Sqlapp.StaticWebAssets.Manifest.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\staticwebassets\Sqlapp.StaticWebAssets.xml
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sqlapp.styles.css
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.TagHelpers.input.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.TagHelpers.output.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorCoreGenerate.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorTargetAssemblyInfo.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorTargetAssemblyInfo.cs
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.dll
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.pdb
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.exe
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.deps.json
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.runtimeconfig.json
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.runtimeconfig.dev.json
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.dll
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.pdb
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.Views.dll
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.Views.pdb
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\tmp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.Views.pdb
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csproj.CopyComplete
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.genruntimeconfig.cache
+C:\tmp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.exe
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.deps.json
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.runtimeconfig.json
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.runtimeconfig.dev.json
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.pdb
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.Views.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.Views.pdb
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csprojAssemblyReference.cache
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.AssemblyInfoInputs.cache
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.AssemblyInfo.cs
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csproj.CoreCompileInputs.cache
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.MvcApplicationPartsAssemblyInfo.cache
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorAssemblyInfo.cache
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorAssemblyInfo.cs
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\staticwebassets\Sqlapp.StaticWebAssets.Manifest.cache
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\staticwebassets\Sqlapp.StaticWebAssets.xml
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sqlapp.styles.css
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.TagHelpers.input.cache
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.TagHelpers.output.cache
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorCoreGenerate.cache
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorTargetAssemblyInfo.cache
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorTargetAssemblyInfo.cs
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.Views.pdb
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csproj.CopyComplete
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.pdb
+C:\tmp\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.genruntimeconfig.cache
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\tmp\Base App\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.StaticWebAssets.xml
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.exe
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.deps.json
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.runtimeconfig.json
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.runtimeconfig.dev.json
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.pdb
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.Views.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Sqlapp.Views.pdb
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csproj.AssemblyReference.cache
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.AssemblyInfoInputs.cache
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.AssemblyInfo.cs
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csproj.CoreCompileInputs.cache
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorAssemblyInfo.cache
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorAssemblyInfo.cs
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\staticwebassets\Sqlapp.StaticWebAssets.Manifest.cache
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.TagHelpers.input.cache
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.TagHelpers.output.cache
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorCoreGenerate.cache
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorTargetAssemblyInfo.cache
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorTargetAssemblyInfo.cs
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.Views.pdb
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csproj.CopyComplete
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.dll
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.pdb
+C:\Users\impec\Learning\OneNote\AZ-305\Azure Functions\Sqlapp\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.genruntimeconfig.cache
